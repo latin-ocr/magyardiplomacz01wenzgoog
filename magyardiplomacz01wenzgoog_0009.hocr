@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./magyardiplomacz01wenzgoog_0009.png"; bbox 0 0 888 1390; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 33 33 350 1356">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 33 33 350 1356">
+     <span class='ocr_line' id='line_1_1' title="bbox 33 33 350 1356; baseline 0.085 -890"><span class='ocrx_word' id='word_1_1' title='bbox 33 33 350 1356; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 329 471 521 488">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 329 471 521 488">
+     <span class='ocr_line' id='line_1_2' title="bbox 329 471 521 488; baseline 0.005 -1"><span class='ocrx_word' id='word_1_2' title='bbox 329 471 521 488; x_wconf 72' lang='lat' dir='ltr'>MONUMENTA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 215 538 633 560">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 215 538 633 560">
+     <span class='ocr_line' id='line_1_3' title="bbox 215 538 633 560; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 215 538 423 560; x_wconf 78' lang='lat' dir='ltr'><strong>HUNGARIAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 438 538 633 559; x_wconf 79' lang='lat' dir='ltr'>HISTORICA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 384 602 462 604">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 384 602 462 604">
+     <span class='ocr_line' id='line_1_4' title="bbox 384 602 462 604; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 384 602 462 604; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 340 651 500 664">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 340 651 500 664">
+     <span class='ocr_line' id='line_1_5' title="bbox 340 651 500 664; baseline -0.006 0"><span class='ocrx_word' id='word_1_6' title='bbox 340 652 397 664; x_wconf 75' lang='grc' dir='ltr'><strong>ΔοτΔ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 410 651 500 663; x_wconf 69' lang='grc' dir='ltr'><strong>ιΧτΙιιΔ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 405 714 444 731">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 405 714 444 731">
+     <span class='ocr_line' id='line_1_6' title="bbox 405 714 444 731; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 405 714 444 731; x_wconf 85' lang='lat'>11.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 338 863 543 930">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 338 863 543 930">
+     <span class='ocr_line' id='line_1_7' title="bbox 338 863 543 901; baseline 0 -6"><span class='ocrx_word' id='word_1_9' title='bbox 338 863 370 895; x_wconf 57' lang='grc'>17-</span> <span class='ocrx_word' id='word_1_10' title='bbox 386 865 460 895; x_wconf 62' lang='lat' dir='ltr'>cumr</span> <span class='ocrx_word' id='word_1_11' title='bbox 478 867 543 901; x_wconf 71' lang='lat' dir='ltr'>uihssy</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 377 903 499 930; baseline -0.016 -3"><span class='ocrx_word' id='word_1_12' title='bbox 377 903 499 930; x_wconf 60' lang='lat' dir='ltr'>kbavveibfil</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
